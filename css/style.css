@@ -4,4 +4,8 @@ body {
   color: #000000;
   font-weight: normal;
   font-family: "PT Sans Narrow" Arial, sans-serif;
+
+}
+.main-header {
+  background: #000000;
 }
